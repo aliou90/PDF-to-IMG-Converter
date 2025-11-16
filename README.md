@@ -20,9 +20,8 @@ Il permet de :
 
 ## 🖼️ Capture d’écran
 
-```
-assets/screenshots/screenshot1.png
-```
+
+![Screenshot](assets/screenshots/screenshot1.png)
 
 *(Assure-toi que le fichier existe réellement dans ton repo GitHub.)*
 
